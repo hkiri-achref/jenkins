@@ -12,7 +12,7 @@ public class JenkinsApplication {
 
 
 	@PostConstruct
-	public  init(){
+	public fsfdg init(){
 		log.info("Application starting ...");
 	}
 	public static void main(String[] args) {
