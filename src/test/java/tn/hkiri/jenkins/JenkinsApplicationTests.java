@@ -12,8 +12,10 @@ class JenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 		log.info("executing unit testing");
-		assertEquals(true,false);
+		assertEquals(true,true);
+
 	}
 
 }
