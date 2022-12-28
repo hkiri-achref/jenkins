@@ -12,7 +12,7 @@
 	<artifactId>jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins</name>
-	
+
 	<description>Demo project for Spring Boot and jenkins</description>
 
 	<properties>
